@@ -17,7 +17,7 @@ su elección utilizando su modelo propuesto.
 #### Con la información de los partidos de la Liga Española de los últimos 40 años. Deben  analizar, y realizar las siguientes consultas:
 
 _Este proyecto es una replica del proyecto hecho en SQL Oracle_  https://github.com/WilderSiguantay/BD_SQL.git
-_las consultas a continuación  consultas fueron transcritas a MongoDB, los terminos utilizados para estas consultas como Store Procedure, entre otros son los que se utilizaron en su momento en el proyecto SQL, la idea es hacer esas mismas consultas pero en una base de datos no relacional,_ 
+_las consultas a continuación fueron transcritas de lenguaje SQL a NoSQL, los terminos utilizados para estas consultas como Store Procedure, entre otros son los que se utilizaron en su momento en el proyecto SQL, la idea es hacer esas mismas consultas pero en una base de datos no relacional,_ 
 _en este caso MongoDB_ 
 
 - Realizar un stored procedure que devuelva la tabla de posiciones en cualquier 
